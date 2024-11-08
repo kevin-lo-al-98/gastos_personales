@@ -1,0 +1,144 @@
+{
+  "expenses": [
+    {
+      "id": "8",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "9",
+      "description": "Taxi"
+    },
+    {
+      "id": "10",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "11",
+      "description": "Taxi"
+    },
+    {
+      "id": "12",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "13",
+      "description": "Taxi"
+    },
+    {
+      "id": "14",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "15",
+      "description": "Taxi"
+    },
+    {
+      "id": "21",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "16",
+      "description": "Taxi"
+    },
+    {
+      "id": "17",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "18",
+      "description": "Taxi"
+    },
+    {
+      "id": "19",
+      "date": "2024-05-01",
+      "category": "Entretenimiento",
+      "amount": 233,
+      "description": "netflix"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "20",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "21",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "22",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "23",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "24",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "25",
+      "description": "ropa"
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Transporte",
+      "amount": 500,
+      "id": "26",
+      "description": "ropa"
+    }
+  ]
+}
